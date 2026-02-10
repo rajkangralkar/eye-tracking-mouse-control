@@ -41,5 +41,5 @@ This project is intended as a **learning and foundational implementation** of vi
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/rajkangralkar/eye-controlled-mouse.git
+git clone https://github.com/rajkangralkar/eye-tracking-mouse-control.git
 cd eye-controlled-mouse
